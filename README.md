@@ -31,3 +31,6 @@ TimeController.java: lines 12-15, returns response entity with a message announc
 app.component.ts: line 21, declared startTime variable
 app.component.ts: line 40, created get request to retrieve the times for presentation
 app.component.html: line 30, displayed the message and time to frontend
+
+Part C1:
+Dockerfile created
