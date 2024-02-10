@@ -34,3 +34,10 @@ app.component.html: line 30, displayed the message and time to frontend
 
 Part C1:
 Dockerfile created
+
+Part C3:
+The cloud provider I would use to deploy this application is Microsoft Azure. I would first have to create a Dockerfile
+in order to package the project and set all the parameters in the file. I would then create a container application on Microsoft Azure as well as a resource group.
+The settings within the application will include a target port set to 8080 and allowing open traffic. Once that is set I will finish the deployment and check to see if the application url is valid.
+
+
