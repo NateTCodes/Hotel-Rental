@@ -15,3 +15,9 @@ WelcomeController.java: lines 12-20, returns welcome message to appropriate url 
 app.component.ts: lines 18-19, created variables for each welcome message
 app.component.ts: lines 35-36, created get request to call from the welcome controller
 app.component.html: lines 25-28, calls get request results to display in frontend
+
+Part B2:
+app.component.ts: line 59, added the two currencies and set them equal to room.price
+app.component.ts: lines 109-110, created variables under room interface
+app.component.html: lines 82-83 created two html elements to display the currencies on frontend
+app.component.html: line 81, added line break to pre-written code so US prices displayed on a different row from Canadian
