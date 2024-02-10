@@ -21,3 +21,13 @@ app.component.ts: line 59, added the two currencies and set them equal to room.p
 app.component.ts: lines 109-110, created variables under room interface
 app.component.html: lines 82-83 created two html elements to display the currencies on frontend
 app.component.html: line 81, added line break to pre-written code so US prices displayed on a different row from Canadian
+
+Part B3a:
+TimeZoneConvert.java: lines 12-17, retrieved current time and added conversion for each different zone
+TimeZoneConvert.java: lines 19-23, set formatting for times and returned the them based on zones
+
+Part B3b:
+TimeController.java: lines 12-15, returns response entity with a message announcing the live presentation
+app.component.ts: line 21, declared startTime variable
+app.component.ts: line 40, created get request to retrieve the times for presentation
+app.component.html: line 30, displayed the message and time to frontend
